@@ -117,9 +117,8 @@ The primary goals of this analysis include:
 ### Conclusion 🎯
 
 This Power BI project demonstrated my ability to analyze large datasets, create dynamic dashboards, and extract actionable insights from LEGO set data. It highlights my skills in:
-
-      - ✅ Data Visualization – Designed engaging, interactive dashboards using Power BI to communicate insights effectively.
-      - ✅ Exploratory Data Analysis (EDA) – Identified pricing trends, piece distribution, and popular themes within LEGO sets.
-      - ✅ DAX & Data Transformation – Utilized advanced DAX functions to compute key metrics like Total Sets, Avg. Price, and rice-to-Piece Ratio.
-      - ✅ Business Intelligence & Reporting – Implemented slicers, tooltips, and decomposition trees to enhance user interactivity.
-      - ✅ Data-Driven Insights – Found that licensed LEGO themes (e.g., Star Wars, Marvel) are priced higher due to collectibility and branding.
+      ✅ Data Visualization – Designed engaging, interactive dashboards using Power BI to communicate insights effectively.
+      ✅ Exploratory Data Analysis (EDA) – Identified pricing trends, piece distribution, and popular themes within LEGO sets.
+      ✅ DAX & Data Transformation – Utilized advanced DAX functions to compute key metrics like Total Sets, Avg. Price, and rice-to-Piece Ratio.
+      ✅ Business Intelligence & Reporting – Implemented slicers, tooltips, and decomposition trees to enhance user interactivity.
+      ✅ Data-Driven Insights – Found that licensed LEGO themes (e.g., Star Wars, Marvel) are priced higher due to collectibility and branding.
