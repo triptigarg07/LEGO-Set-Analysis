@@ -2,7 +2,7 @@
 
 This project aims to analyze LEGO sets using Power BI, providing insights into pricing, piece count, and various themes. The dataset consists of 4,385 LEGO sets, categorized based on themes, age ranges, and other parameters. This case study presents the methodology, key findings, and insights derived from the analysis using Exploratory Data Analysis (EDA) and DAX (Data Analysis Expressions) for advanced calculations.
 
- ![Dashboard](/legoset_analysis_page-0001)
+ ![Dashboard](/legoset_analysis_page-0001.jpg)
 
 ## Objectives 🎯
 
@@ -61,19 +61,19 @@ The primary goals of this analysis include:
              - Name, Image, Price, Year, Pieces, Age.
              - Placeholder values shown when multiple sets are selected.
 
-  ![Filters](/filters_applied)
+  ![Filters](/filters_applied.jpg)
 
 - Data Visualization Enhancements 📈
         - Used decomposition trees to analyze trends over time.
         - Applied conditional formatting to highlight high-value sets.
 
-  ![Dashboard](/legoset_analysis_page-0002)
+  ![Dashboard](/legoset_analysis_page-0002.jpg)
 
 - Interaction Customization ⚙️:
         - Prevented table selections from filtering top-level cards.
         - Used cross-filtering and drill-through pages for an in-depth analysis of themes and price segments.
 
-   ![Selected Legoset](/selected_legoset)
+   ![Selected Legoset](/selected_legoset.jpg)
 
 ### 3. Adding Interactive Components 🖱️
 
@@ -85,17 +85,17 @@ The primary goals of this analysis include:
         - Enabled tooltips to display LEGO set images when hovering over a table row.
         - Ensured that when scrolling, the image of the LEGO set remains visible along with its key details.
 
-  ![tooltip](/tootlip_legoset)
+  ![tooltip](/tootlip_legoset.jpg)
 
 - Bookmarks & Page Navigation 🔄:
         - Implemented a reset button to clear all filters.
         - Used bookmarks for "on hover" and "on press" effects.
 
-  ![Reset Button](/reset_button)
+  ![Reset Button](/reset_button.jpg)
   
         - Created a decomposition tree visual on a separate report page analyzing Total Sets by Category, Theme Group, Theme, and Name.
 
-  ![Tree Visual](/exploring_categories)
+  ![Tree Visual](/exploring_categories.jpg)
         
 ## Key Findings 🔍
 
