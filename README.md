@@ -2,6 +2,8 @@
 
 This project aims to analyze LEGO sets using Power BI, providing insights into pricing, piece count, and various themes. The dataset consists of 4,385 LEGO sets, categorized based on themes, age ranges, and other parameters. This case study presents the methodology, key findings, and insights derived from the analysis using Exploratory Data Analysis (EDA) and DAX (Data Analysis Expressions) for advanced calculations.
 
+ ![Dashboard](/legoset_analysis_page-0001)
+
 ## Objectives 🎯
 
 The primary goals of this analysis include:
@@ -59,13 +61,19 @@ The primary goals of this analysis include:
              - Name, Image, Price, Year, Pieces, Age.
              - Placeholder values shown when multiple sets are selected.
 
+  ![Filters](/filters_applied)
+
 - Data Visualization Enhancements 📈
-        - Used bar charts, line graphs, and decomposition trees to analyze trends over time.
+        - Used decomposition trees to analyze trends over time.
         - Applied conditional formatting to highlight high-value sets.
+
+  ![Dashboard](/legoset_analysis_page-0002)
 
 - Interaction Customization ⚙️:
         - Prevented table selections from filtering top-level cards.
         - Used cross-filtering and drill-through pages for an in-depth analysis of themes and price segments.
+
+   ![Selected Legoset](/selected_legoset)
 
 ### 3. Adding Interactive Components 🖱️
 
@@ -77,12 +85,18 @@ The primary goals of this analysis include:
         - Enabled tooltips to display LEGO set images when hovering over a table row.
         - Ensured that when scrolling, the image of the LEGO set remains visible along with its key details.
 
+  ![tooltip](/tootlip_legoset)
+
 - Bookmarks & Page Navigation 🔄:
         - Implemented a reset button to clear all filters.
         - Used bookmarks for "on hover" and "on press" effects.
-        - Created a decomposition tree visual on a separate report page analyzing Total Sets by Category, Theme Group, Theme, and Name.
-        - Added buttons for seamless navigation between report pages.
 
+  ![Reset Button](/reset_button)
+  
+        - Created a decomposition tree visual on a separate report page analyzing Total Sets by Category, Theme Group, Theme, and Name.
+
+  ![Tree Visual](/exploring_categories)
+        
 ## Key Findings 🔍
 
 ### 1. Price Trends
@@ -103,6 +117,7 @@ The primary goals of this analysis include:
 ### Conclusion 🎯
 
 This Power BI project demonstrated my ability to analyze large datasets, create dynamic dashboards, and extract actionable insights from LEGO set data. It highlights my skills in:
+
       - ✅ Data Visualization – Designed engaging, interactive dashboards using Power BI to communicate insights effectively.
       - ✅ Exploratory Data Analysis (EDA) – Identified pricing trends, piece distribution, and popular themes within LEGO sets.
       - ✅ DAX & Data Transformation – Utilized advanced DAX functions to compute key metrics like Total Sets, Avg. Price, and rice-to-Piece Ratio.
